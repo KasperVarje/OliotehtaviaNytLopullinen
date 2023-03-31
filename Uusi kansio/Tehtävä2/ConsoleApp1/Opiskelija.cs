@@ -11,7 +11,6 @@ namespace Harjoitus_2
         private int Opintopisteet { get; set; }
 
 
-        // Konstruktori Opiskelija -luokalle
         public Opiskelija(string _nimi, string _id, int _op)
         {
             Nimi = _nimi;
@@ -29,7 +28,6 @@ namespace Harjoitus_2
             Console.WriteLine("");
         }
 
-        // Metodi, joka ottaa parametriksi integer - arvon.
         public void MuokkaaOpintopisteitä(int i)
         {
             Opintopisteet += i;

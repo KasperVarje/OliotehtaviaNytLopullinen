@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\bin\Debug\net6.0\tehtävä 3.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\bin\Debug\net6.0\tehtävä 3.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\bin\Debug\net6.0\tehtävä 3.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\bin\Debug\net6.0\tehtävä 3.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\bin\Debug\net6.0\tehtävä 3.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\refint\tehtävä 3.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\tehtävä 3.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä3\tehtävä 3\tehtävä 3\obj\Debug\net6.0\ref\tehtävä 3.dll

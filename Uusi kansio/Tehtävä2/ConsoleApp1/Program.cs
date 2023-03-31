@@ -6,7 +6,6 @@ namespace Harjoitus_2
     {
         static void Main(string[] args)
         {
-            // luodaan Opiskelija olio
             Opiskelija opiskelija1 = new Opiskelija("Kasper", "DATV22", 0);
 
             opiskelija1.TulostaData();
