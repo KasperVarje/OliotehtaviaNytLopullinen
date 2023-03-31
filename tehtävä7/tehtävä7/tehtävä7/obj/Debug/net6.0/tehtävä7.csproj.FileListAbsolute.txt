@@ -1,0 +1,15 @@
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\bin\Debug\net6.0\tehtävä7.exe
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\bin\Debug\net6.0\tehtävä7.deps.json
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\bin\Debug\net6.0\tehtävä7.runtimeconfig.json
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\bin\Debug\net6.0\tehtävä7.dll
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\bin\Debug\net6.0\tehtävä7.pdb
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.csproj.AssemblyReference.cache
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.AssemblyInfoInputs.cache
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.AssemblyInfo.cs
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.dll
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\refint\tehtävä7.dll
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.pdb
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\tehtävä7.genruntimeconfig.cache
+C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\tehtävä7\tehtävä7\tehtävä7\obj\Debug\net6.0\ref\tehtävä7.dll
