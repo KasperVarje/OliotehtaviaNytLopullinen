@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\bin\Debug\net6.0\Tehtävä4.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\bin\Debug\net6.0\Tehtävä4.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\bin\Debug\net6.0\Tehtävä4.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\bin\Debug\net6.0\Tehtävä4.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\bin\Debug\net6.0\Tehtävä4.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\refint\Tehtävä4.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\Tehtävä4.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä4\Tehtävä4\Tehtävä4\obj\Debug\net6.0\ref\Tehtävä4.dll
