@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\bin\Debug\net6.0\tehtävä9.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\bin\Debug\net6.0\tehtävä9.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\bin\Debug\net6.0\tehtävä9.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\bin\Debug\net6.0\tehtävä9.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\bin\Debug\net6.0\tehtävä9.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\refint\tehtävä9.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\tehtävä9.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tehtävä9\tehtävä9\tehtävä9\obj\Debug\net6.0\ref\tehtävä9.dll
