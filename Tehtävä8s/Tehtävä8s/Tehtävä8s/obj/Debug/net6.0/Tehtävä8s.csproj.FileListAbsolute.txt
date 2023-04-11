@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\bin\Debug\net6.0\Tehtävä8s.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\bin\Debug\net6.0\Tehtävä8s.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\bin\Debug\net6.0\Tehtävä8s.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\bin\Debug\net6.0\Tehtävä8s.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\bin\Debug\net6.0\Tehtävä8s.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\refint\Tehtävä8s.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\Tehtävä8s.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\Tehtävä8s\Tehtävä8s\Tehtävä8s\obj\Debug\net6.0\ref\Tehtävä8s.dll
