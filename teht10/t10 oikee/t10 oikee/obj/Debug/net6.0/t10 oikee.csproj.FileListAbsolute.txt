@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\bin\Debug\net6.0\t10 oikee.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\bin\Debug\net6.0\t10 oikee.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\bin\Debug\net6.0\t10 oikee.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\bin\Debug\net6.0\t10 oikee.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\bin\Debug\net6.0\t10 oikee.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\refint\t10 oikee.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\t10 oikee.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t10 oikee\t10 oikee\obj\Debug\net6.0\ref\t10 oikee.dll
