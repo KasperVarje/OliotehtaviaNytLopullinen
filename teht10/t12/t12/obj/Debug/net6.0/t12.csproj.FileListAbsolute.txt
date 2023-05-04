@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\bin\Debug\net6.0\t12.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\bin\Debug\net6.0\t12.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\bin\Debug\net6.0\t12.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\bin\Debug\net6.0\t12.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\bin\Debug\net6.0\t12.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\refint\t12.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\t12.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\teht10\t12\t12\obj\Debug\net6.0\ref\t12.dll
