@@ -176,5 +176,12 @@ namespace WPFlaskin
                 operation = "Divide";
             }
         }
+
+        private void ClearButton_Click(object sender, RoutedEventArgs e)
+        {
+            output = "";
+
+            OutPutTextBlock.Text = output;
+        }
     }
 }

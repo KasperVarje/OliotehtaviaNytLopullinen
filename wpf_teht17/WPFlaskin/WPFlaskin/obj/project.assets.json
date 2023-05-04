@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaspe\\source\\repos\\KasperVarje\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\WPFlaskin.csproj",
+      "projectUniqueName": "E:\\MuleDrifter\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\WPFlaskin.csproj",
       "projectName": "WPFlaskin",
-      "projectPath": "C:\\Users\\kaspe\\source\\repos\\KasperVarje\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\WPFlaskin.csproj",
+      "projectPath": "E:\\MuleDrifter\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\WPFlaskin.csproj",
       "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaspe\\source\\repos\\KasperVarje\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\obj\\",
+      "outputPath": "E:\\MuleDrifter\\OliotehtaviaNytLopullinen\\wpf_teht17\\WPFlaskin\\WPFlaskin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
