@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Lift-PNG-Transparent-Image.png" />
+    <None Remove="Lift-PNG-Transparent-Image1212.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Lift-PNG-Transparent-Image.png" />
+    <Resource Include="Lift-PNG-Transparent-Image1212.png" />
+  </ItemGroup>
+
+</Project>

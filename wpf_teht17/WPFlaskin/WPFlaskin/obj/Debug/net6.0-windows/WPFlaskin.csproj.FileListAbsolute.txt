@@ -19,3 +19,24 @@ C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\wpf_teht17\WPF
 C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.pdb
 C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.genruntimeconfig.cache
 C:\Users\kaspe\source\repos\KasperVarje\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\ref\WPFlaskin.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\bin\Debug\net6.0-windows\WPFlaskin.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\bin\Debug\net6.0-windows\WPFlaskin.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\bin\Debug\net6.0-windows\WPFlaskin.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\bin\Debug\net6.0-windows\WPFlaskin.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\bin\Debug\net6.0-windows\WPFlaskin.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin_MarkupCompile.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin_MarkupCompile.lref
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.g.resources
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\refint\WPFlaskin.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\WPFlaskin.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\MuleDrifter\OliotehtaviaNytLopullinen\wpf_teht17\WPFlaskin\WPFlaskin\obj\Debug\net6.0-windows\ref\WPFlaskin.dll
