@@ -1,0 +1,15 @@
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\bin\Debug\net6.0\koritt.exe
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\bin\Debug\net6.0\koritt.deps.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\bin\Debug\net6.0\koritt.runtimeconfig.json
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\bin\Debug\net6.0\koritt.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\bin\Debug\net6.0\koritt.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.csproj.AssemblyReference.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.AssemblyInfoInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.AssemblyInfo.cs
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.csproj.CoreCompileInputs.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\refint\koritt.dll
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.pdb
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\koritt.genruntimeconfig.cache
+C:\Users\kasper.varje\OneDrive - Careeria\Tiedostot\olio\Oliotehtävä1\tht_12\koritt\koritt\obj\Debug\net6.0\ref\koritt.dll
